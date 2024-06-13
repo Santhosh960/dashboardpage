@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-brand {
+    color: orange;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.main-heading {
+    color: #f15a24;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.logo {
+    width: 50px;
+}
+
+.btn-orange {
+    background-color: #f15a24;
+    color: #fff;
+}
+
+.btn-orange:hover {
+    background-color: #e1491e;
+}
+
+.card-title {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: red;
+    top: 155px;
+    left: 407px;
+    width: 27px;
+    height: 24px;
+    border-radius: 12px;
+    color: white;
+}
+
+.card-text {
+    font-size: 0.875rem;
+    color: #6c757d;
+}
+
+.nav-link {
+    font-size: 1rem;
+    color: #333;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    color: #f15a24;
+}
+
+.list-group-item {
+    background-color: #fff;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+.list-group-item h5 {
+    font-size: 1.25rem;
+}
+
+.list-group-item p {
+    font-size: 0.875rem;
+    color: #6c757d;
+}
